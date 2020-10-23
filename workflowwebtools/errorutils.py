@@ -44,7 +44,7 @@ def errors_from_list(workflows):
     return indict
 
 
-def assistance_manual(key='assistance_manual'):
+def assistance_manual(key='assistance-manual'):
     """
     Returns the workflows in 'assistance-manual'
 
